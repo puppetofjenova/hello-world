@@ -1,6 +1,6 @@
 # hello-world
 
-My name is RJ and _**I**_ like to party.
+My name is RJ and _**I**_ like to party. :bomb:
 >Let's Party
 
 # This is the Next line in a series of other lines
